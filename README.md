@@ -2,13 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-h1 {
-  font-family: Trebuchet MS;
-  font-size: 36px;
-  color: #333;
-}
-</style>
+
+
 </head>
 <body>
 
